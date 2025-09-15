@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: "Baskervville", serif;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: black;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    font-family: "Baskervville", serif;
+    border: 2px solid rgba(241, 213, 56, 0.851);
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    background: rgba(241, 213, 56, 0.851);
+    border: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.main{
+    background: url(./images/page-header.jpg)no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 100vh;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+     font-family: "Baskervville", serif;
+}
+.button-name{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgba(241, 213, 56, 0.851) ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
