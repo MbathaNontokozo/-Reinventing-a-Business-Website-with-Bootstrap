@@ -62,3 +62,15 @@
     font-weight: 700;
     border-radius: 60px;
 }
+
+
+.footer {
+  background:black;
+  color:white;
+  text-align: center;
+  padding: 1.2em 0;
+  font-size: 1rem;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  border-radius: 0 0;
+}
